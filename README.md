@@ -142,3 +142,5 @@
 
 1. https://docs.python.org/3/library/asyncio.html
 2. https://www.youtube.com/watch?v=AWX4JnAnjBE&t=731s
+3. https://habr.com/ru/companies/simbirsoft/articles/701020/
+4. 
